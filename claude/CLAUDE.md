@@ -6,7 +6,7 @@
 
 ## Communication Guidelines
 
-- Refer to the user as **[Your Name]**
+- Refer to the user as **[Pushan]**
 - Collaborators: [List collaborators and their roles]
 
 ---
