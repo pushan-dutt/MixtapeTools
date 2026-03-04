@@ -6,13 +6,14 @@
 
 ## About This Repo
 
-This is a collection of tools, templates, and philosophies I've developed while using Claude Code for:
+I forked this from Scott Cunningham
+This is a collection of tools, templates, and philosophies developed while using Claude Code for:
 
 - **Coding** (data analysis scripts, replication code, automation)
 - **Teaching** (course materials, lecture decks, pedagogical tools)
 - **Presentations** (Beamer decks, slides for talks and seminars)
 
-As I develop new approaches, I'll add them here. Anyone is free to use them.
+
 
 **Take everything with a grain of salt.** These are workflows that work for me. Your mileage may vary.
 
@@ -20,11 +21,10 @@ As I develop new approaches, I'll add them here. Anyone is free to use them.
 
 ## Who I Am
 
-**Scott Cunningham** — Professor of Economics at Baylor University
+**Pushan Dutt** — Professor of Economics at INSEAD
 
-- **Website:** [www.scunning.com](https://www.scunning.com)
-- **Substack:** [causalinf.substack.com](https://causalinf.substack.com) — I write regularly about causal inference, Claude Code, and random things
-- **Free book:** [Causal Inference: The Mixtape](https://mixtape.scunning.com) — available online
+- **Website:** https://pushan-dutt.github.io
+- **Substack:** https://pushandutt.substack.com/ — I write about economics, geopolitics and game theory
 
 ---
 
